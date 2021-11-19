@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - Cracow's AGH student
 - Not working on any special project atm
 
-Here is a cool dog
+Here is a cool dog:
+
 ![cool dog](https://zoonews.pl/wp-content/uploads/2021/07/shiba-inu.jpg)
